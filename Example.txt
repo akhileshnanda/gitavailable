@@ -1,0 +1,6 @@
+just file created and no commonds run till ,files that are not in tracking status  area called working directory
+final gole now to send to remote repository
+first need to store in local repository
+so staging area is important
+WHERE WE CAN SEND SPECIFIC FILES TO STAGING area
+then they can COMMIT all to LOCAL REPOSITORY and again we can PUSH to remote repository
